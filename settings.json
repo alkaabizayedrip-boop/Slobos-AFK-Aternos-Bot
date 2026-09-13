@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "zayedandahmed.aternos.me:52024",
+    "port": 52024,
     "version": "",
     "try-creative": false
   },
